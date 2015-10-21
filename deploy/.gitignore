@@ -1,4 +1,7 @@
 *
 !.gitignore
+
 !environment_example
+
+!settings
 !settings/base_example.json
